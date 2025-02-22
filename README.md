@@ -6,7 +6,7 @@ A **simple yet powerful** budgeting tool that helps you **track expenses, analyz
 ---
 
 ## 🌟 Features  
-- ✅ 
+- ✅ **📌 Track Expenses** – Log all your daily, weekly, and monthly expenses in one place.
 - ✅ **📅 Status Updates** – Mark jobs as **applied, interviewed, or offered**. 
 - ✅ **🔔 Smart Alerts** – Get reminders for follow-ups and deadlines.  .  
 - ✅ **🎨 Sleek UI & Transitions** – A visually stunning and user-friendly design.  
