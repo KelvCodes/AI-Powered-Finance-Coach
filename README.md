@@ -37,7 +37,7 @@ A **simple yet powerful** budgeting tool that helps you **track expenses, analyz
 
 2️⃣ **Analyze Spending** – View real-time charts showing spending patterns. 📊   
 
-3️⃣ **Stay Updated** – Set reminders for follow-ups and deadlines. 🔔
+3️⃣ **Set Budget Goals** – Define your budget and track progress. 🎯  
 
 4️⃣ **Download Your List** – Export your job applications for easy access. 📥  
 
