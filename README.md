@@ -9,7 +9,7 @@ A **simple yet powerful** budgeting tool that helps you **track expenses, analyz
 - ✅ **📌 Track Expenses** – Log all your daily, weekly, and monthly expenses in one place.
 - ✅ **📊 Interactive Charts** – Visualize spending trends using **Chart.js**.  
 - ✅ **🔔 Budget Alerts** – Get notified when you're close to exceeding your budget. .  
-- ✅ **🎨 Sleek UI & Transitions** – A visually stunning and user-friendly design.  
+- ✅  
 - ✅ **🌙 Dark Mode** – Work comfortably in any lighting condition.  
 - ✅ **📱 Fully Responsive** – Optimized for mobile & desktop use.  
   
