@@ -39,7 +39,7 @@ A **simple yet powerful** budgeting tool that helps you **track expenses, analyz
 
 3️⃣ **Set Budget Goals** – Define your budget and track progress. 🎯  
 
-4️⃣ **Download Your List** – Export your job applications for easy access. 📥  
+4️⃣ **Stay Alert** – Get notifications when spending exceeds your budget. 🔔
 
 
 
