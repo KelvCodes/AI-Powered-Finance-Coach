@@ -28,7 +28,7 @@ A **simple yet powerful** budgeting tool that helps you **track expenses, analyz
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Styling and layout |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Frontend interactivity |
 | ![LocalStorage](https://img.shields.io/badge/LocalStorage-FF5733?style=for-the-badge) | Saves data locally |
-
+| ![Chart.js](https://img.shields.io/badge/Chart.js-FF5733?style=for-the-badge) | Interactive expense visualizations |
 
 ---
 
