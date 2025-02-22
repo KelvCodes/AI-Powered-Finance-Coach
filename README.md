@@ -59,7 +59,7 @@ A **simple yet powerful** budgeting tool that helps you **track expenses, analyz
 
 ## 🤝 Contributing  
 
-Want to make thisJob Tracker Pro even better? We’d love your help! 💡  
+Want to make Personal Finance Coach Web App even better? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
