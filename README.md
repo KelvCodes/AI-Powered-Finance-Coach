@@ -33,7 +33,7 @@ A **simple yet powerful** budgeting tool that helps you **track expenses, analyz
 ---
 
 ## 🚀 How to Use 
-1️⃣ **Add Expenses** – Enter the amount, category, and date. 📝 
+1️⃣ **Add Expenses** – Enter the amount, category. 📝 
 
 2️⃣ **Track Your Progress** – Mark jobs as **Applied, Interviewed, or Offered**. 🎯  
 
