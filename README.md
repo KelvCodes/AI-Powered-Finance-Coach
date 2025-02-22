@@ -11,7 +11,7 @@ A **simple yet powerful** budgeting tool that helps you **track expenses, analyz
 - ✅ **🔔 Budget Alerts** – Get notified when you're close to exceeding your budget. .  
 - ✅ **🎨 Sleek UI & Animations** – Clean, modern design with smooth transitions. 
 - ✅ **🌙 Dark Mode** – Manage finances comfortably, day or night.  
-- ✅ **📱 Fully Responsive** – Optimized for mobile & desktop use.  
+- ✅ **📱 Fully Responsive** – Works seamlessly on mobile & desktop.   
   
 ---      
 ## 🎬 Live Demo 
