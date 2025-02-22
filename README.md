@@ -1,7 +1,7 @@
 # 💰 Personal Finance Coach 
 
-A **modern and intuitive** job application tracking system that helps you **stay organized** in your job search! 🎯💼  
-Track applications, monitor statuses, and never miss an opportunity again! ✅
+A **simple yet powerful** budgeting tool that helps you **track expenses, analyze spending, and manage your finances** effortlessly! 📊💵  
+
 
 ---
 
