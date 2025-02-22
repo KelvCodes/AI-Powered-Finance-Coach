@@ -10,7 +10,7 @@ A **simple yet powerful** budgeting tool that helps you **track expenses, analyz
 - ✅ **📊 Interactive Charts** – Visualize spending trends using **Chart.js**.  
 - ✅ **🔔 Budget Alerts** – Get notified when you're close to exceeding your budget. .  
 - ✅ **🎨 Sleek UI & Animations** – Clean, modern design with smooth transitions. 
-- ✅  
+- ✅ **🌙 Dark Mode** – Manage finances comfortably, day or night.  
 - ✅ **📱 Fully Responsive** – Optimized for mobile & desktop use.  
   
 ---      
