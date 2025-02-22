@@ -35,7 +35,7 @@ A **simple yet powerful** budgeting tool that helps you **track expenses, analyz
 ## 🚀 How to Use 
 1️⃣ **Add Expenses** – Enter the amount and category. 📝 
 
-2️⃣**Analyze Spending** – View real-time charts showing spending patterns. 📊   
+2️⃣ **Analyze Spending** – View real-time charts showing spending patterns. 📊   
 
 3️⃣ **Stay Updated** – Set reminders for follow-ups and deadlines. 🔔
 
