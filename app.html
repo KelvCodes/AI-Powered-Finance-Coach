@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>💰 Personal Finance Coach</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>💰 Welcome, <span id="user-greeting"></span>, to Your Financial Coach</h1>
+      <p><strong>Track your expenses, set budgets, and achieve your financial goals. 🚀</strong></p>
+      <div class="currency-input">
+        <label for="currency"><strong>Enter Currency Code:</strong></label>
+        <input type="text" id="currency" placeholder="e.g., USD, EUR, INR" maxlength="3">
+      </div>
+    </header>
+
+    <section class="input-section">
+      <h2>📝 Add Expense</h2>
+      <form id="expense-form">
+        <input type="text" id="expense-name" placeholder="Expense Name" required>
+        <input type="number" id="expense-amount" placeholder="Amount" required>
+        <select id="expense-category">
+          <option value="food">🍔 Food</option>
+          <option value="transport">🚗 Transport</option>
+          <option value="entertainment">🎉 Entertainment</option>
+          <option value="utilities">💡 Utilities</option>
+          <option value="other">📦 Other</option>
+        </select>
+        <button type="submit">Add Expense</button>
+      </form>
+    </section>
+
+    <section class="budget-section">
+      <h2>📊 Set Budget</h2>
+      <form id="budget-form">
+        <select id="budget-category">
+          <option value="food">🍔 Food</option>
+          <option value="transport">🚗 Transport</option>
+          <option value="entertainment">🎉 Entertainment</option>
+          <option value="utilities">💡 Utilities</option>
+          <option value="other">📦 Other</option>
+        </select>
+        <input type="number" id="budget-amount" placeholder="Budget Amount" required>
+        <button type="submit">Set Budget</button>
+      </form>
+    </section>
+
+    <section class="expense-list">
+      <h2>📋 Expenses</h2>
+      <ul id="expenses"></ul>
+    </section>
+
+    <section class="charts">
+      <h2>📈 Spending Overview</h2>
+      <canvas id="spendingChart"></canvas>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+      <div class="footer-content">
+        <div class="footer-links">
+          <a href="#">About</a>
+          <a href="#">Privacy Policy</a>
+          <a href="#">Terms of Service</a>
+        </div>
+        <div class="social-icons">
+          <a href="https://github.com/KelvCodes" target="_blank">
+            <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub">
+          </a>
+          <a href="https://www.linkedin.com/in/kelvin-agyare-yeboah-6728a7301" target="_blank">
+            <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" alt="LinkedIn">
+          </a>
+          <a href="https://www.youtube.com/@TechTutor_Tv?sub_confirmation=1" target="_blank">
+            <img src="https://img.icons8.com/ios-filled/50/ffffff/youtube.png" alt="Twitter">
+          </a>
+        </div>
+        <p>© 2025 Personal Finance Coach. All rights reserved.</p>
+        <p>Designed By <a href="https://github.com/KelvCodes"><span style="color: black;">KelvCodes</span></a></p>
+      </div>
+    </footer>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
