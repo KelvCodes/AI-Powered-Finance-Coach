@@ -1,1 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Your financial command center">
+  <title>Financial Nexus - Command</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="cyber-container">
+    <header class="cyber-header glitch">
+      <h1>Welcome, <span id="user-greeting"></span></h1>
+      <div class="cyber-controls">
+        <button id="dark-mode-toggle" class="cyber-btn" aria-label="Toggle interface mode">⚡</button>
+        <button id="export-csv" class="cyber-btn">Download Data</button>
+      </div>
+    </header>
 
+    <section class="cyber-module">
+      <h2>System Settings</h2>
+      <input type="text" id="currency" placeholder="Currency Code (e.g., USD)" maxlength="3" aria-label="Currency code">
+    </section>
+
+    <section class="cyber-module">
+      <h2>Input Transaction</h2>
+      <form id="expense-form" class="cyber-form">
+        <input type="text" id="expense-name" placeholder="Transaction ID" required aria-label="Expense name">
+        <input type="number" id="expense-amount" placeholder="Value" step="0.01" required aria-label="Expense amount">
+        <select id="expense-category" aria-label="Transaction type">
+          <option value="food">Food</option>
+          <option value="transport">Transport</option>
+          <option value="entertainment">Entertainment</option>
+          <option value="utilities">Utilities</option>
+          <option value="other">Other</option>
+        </select>
+        <button type="submit" class="cyber-btn">Submit</button>
+      </form>
+    </section>
+
+    <section class="cyber-module">
+      <h2>Budget Protocol</h2>
+      <form id="budget-form" class="cyber-form">
+        <select id="budget-category" aria-label="Budget type">
+          <option value="food">Food</option>
+          <option value="transport">Transport</option>
+          <option value="entertainment">Entertainment</option>
+          <option value="utilities">Utilities</option>
+          <option value="other">Other</option>
+        </select>
+        <input type="number" id="budget-amount" placeholder="Limit" step="0.01" required aria-label="Budget amount">
+        <button type="submit" class="cyber-btn">Deploy</button>
+      </form>
+    </section>
+
+    <section class="cyber-module">
+      <h2>Transaction Log</h2>
+      <ul id="expenses" class="cyber-list"></ul>
+      <div id="budget-alert" class="cyber-alert hidden"></div>
+    </section>
+
+    <section class="cyber-module">
+      <h2>Data Visualization</h2>
+      <canvas id="spendingChart"></canvas>
+    </section>
+
+    <footer class="cyber-footer">
+      <p>Financial Nexus © 2025 | Engineered by <a href="https://github.com/KelvCodes">KelvCodes</a></p>
+    </footer>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
