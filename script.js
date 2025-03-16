@@ -1,15 +1,4 @@
-// Homepage Script
-document.addEventListener('DOMContentLoaded', () => {
-    const nameForm = document.getElementById('name-form');
-  
-    nameForm.addEventListener('submit', (e) => {
-      e.preventDefault();
-      const userName = document.getElementById('user-name').value.trim();
-      if (userName) {
-        localStorage.setItem('userName', userName);
-        window.location.href = 'app.html'; // Redirect to the main app
-      }
-    });
+
   });
   
   // Main App Script
