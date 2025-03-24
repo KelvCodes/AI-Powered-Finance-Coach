@@ -10,7 +10,7 @@ A **smart, AI-driven finance tracker** built with **React** and **TensorFlow.js*
 - ✅ 📌 **Track Expenses** – Log daily, weekly, and monthly expenses with ease.
 - ✅ 📊 **Visual Analytics** – Interactive charts displaying spending patterns. 
 - ✅ 🔔 **Budget Alerts** – Receive alerts when nearing your budget limit.  
-- ✅ **🌙 Dark Mode** – Manage finances comfortably, day or night.  
+- ✅ .  
 - ✅ **📱 Fully Responsive** – Works seamlessly on mobile & desktop.   
   
 ---      
@@ -113,6 +113,7 @@ If you enjoy my projects, feel free to [![Buy Me A Coffee](https://img.shields.i
 
 ---
 Enjoy this web app,and don’t forget to ⭐ the repo if you like it! 🥳✨  
+
 
 
 
