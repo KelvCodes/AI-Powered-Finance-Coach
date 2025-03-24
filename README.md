@@ -1,4 +1,4 @@
-# 💰 AI-Powered Finance Coach
+z# 💰 AI-Powered Finance Coach
 
 A **smart, AI-driven finance tracker** built with **React** and **TensorFlow.js** to help you **analyze expenses, track spending, and manage your budget** effortlessly! 📊💵 
 
@@ -50,7 +50,7 @@ A **smart, AI-driven finance tracker** built with **React** and **TensorFlow.js*
 
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/personal-finance-coach.git
+   git clone https://github.com/yourusername/personal-finance-.git
    ```  
 
 2. Open the `index.html` file in your favorite web browser. 🌐  
