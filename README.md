@@ -28,7 +28,7 @@ A **smart, AI-driven finance tracker** built with **React** and **TensorFlow.js*
 | ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black) | Frontend Framework |
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Styling & Layout |
 | ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | AI-Powered Analysis |
-| ![LocalStorage](https://img.shields.io/badge/LocalStorage-FF5733?style=for-the-badge) | Saves data locally |
+
 | ![Chart.js](https://img.shields.io/badge/Chart.js-FF5733?style=for-the-badge) | Interactive expense visualizations |
 
 ---
