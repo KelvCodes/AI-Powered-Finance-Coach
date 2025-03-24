@@ -1,6 +1,6 @@
 # 💰 AI-Powered Finance Coach
 
-A **simple yet powerful** budgeting tool that helps you **track expenses, analyze spending, and manage your finances** effortlessly! 📊💵  
+
 
 
 ---
