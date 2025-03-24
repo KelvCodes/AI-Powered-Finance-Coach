@@ -11,7 +11,7 @@ A **smart, AI-driven finance tracker** built with **React** and **TensorFlow.js*
 - ✅ 📊 **Visual Analytics** – Interactive charts displaying spending patterns. 
 - ✅ 🔔 **Budget Alerts** – Receive alerts when nearing your budget limit.  
 - ✅ 🌙 **Dark Mode** – Switch seamlessly between light and dark themes. 
-- ✅ 
+- ✅  📱 **Fully Responsive** – Optimized for both mobile and desktop. 
   
 ---      
 ## 🎬 Live Demo 
