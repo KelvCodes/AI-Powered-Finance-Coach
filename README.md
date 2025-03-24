@@ -10,7 +10,7 @@ A **smart, AI-driven finance tracker** built with **React** and **TensorFlow.js*
 - ✅ 📌 **Track Expenses** – Log daily, weekly, and monthly expenses with ease.
 - ✅ 📊 **Visual Analytics** – Interactive charts displaying spending patterns. 
 - ✅ 🔔 **Budget Alerts** – Receive alerts when nearing your budget limit.  
-- ✅ .  
+- ✅  
 - ✅ **📱 Fully Responsive** – Works seamlessly on mobile & desktop.   
   
 ---      
