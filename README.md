@@ -37,6 +37,7 @@ A **smart, AI-driven finance tracker** built with **React** and **TensorFlow.js*
 1️⃣  **Add Expenses** – Enter spending details, and AI categorizes them. 📝
 
 2️⃣  **Analyze Spending** – View real-time charts powered by **TensorFlow.js**. 📊  
+
 3️⃣
 
 4️⃣ **Stay Alert** – Get notifications when spending exceeds your budget. 🔔
