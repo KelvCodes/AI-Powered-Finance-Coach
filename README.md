@@ -1,4 +1,4 @@
-# 💰Financial Ne AI-Powered Finance Coach
+# 💰Financial Nex AI-Powered Finance Coach
 
 A **smart, AI-driven finance tracker** built with **React** and **TensorFlow.js** to help you **analyze expenses, track spending, and manage your budget** effortlessly! 📊💵 
 
