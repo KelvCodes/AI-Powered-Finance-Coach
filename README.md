@@ -60,7 +60,7 @@ A **smart, AI-driven finance tracker** built with **React** and **TensorFlow.js*
 
 ## 🤝 Contributing  
 
-Want to make Financial even better? We’d love your help! 💡  
+Want to make Financial Nexeven better? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
