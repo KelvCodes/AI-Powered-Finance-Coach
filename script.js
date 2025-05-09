@@ -1,8 +1,4 @@
-
-  // Set Budget
-  budgetForm.addEventListener('submit', (e) => {
-    e.preventDefault();
-    const category = document.getElementById('budget-category').value;
+category = document.getElementById('budget-category').value;
     const amount = parseFloat(document.getElementById('budget-amount').value);
 
     budgets[category] = amount;
