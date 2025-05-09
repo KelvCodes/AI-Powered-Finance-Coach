@@ -1,11 +1,4 @@
-
-  }
-
-  // Export to CSV
-  exportCsvBtn.addEventListener('click', () => {
-    const csv = ['Name,Amount,Category'];
-    expenses.forEach(exp => csv.push(`${exp.name},${exp.amount},${exp.category}`));
-    const blob = new Blob([csv.join('\n')], { type: 'text/csv' });
+t blob = new Blob([csv.join('\n')], { type: 'text/csv' });
     const url = URL.createObjectURL(blob);
     const a = document.createElement('a');
     a.href = url;
