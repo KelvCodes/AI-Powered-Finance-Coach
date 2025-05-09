@@ -1,7 +1,4 @@
-
-  currencyInput.addEventListener('change', () => {
-    currency = currencyInput.value.trim().toUpperCase();
-    localStorage.setItem('currency', currency);
+Storage.setItem('currency', currency);
     renderExpenses();
   });
 
