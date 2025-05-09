@@ -1,12 +1,4 @@
-rderRadius: 5,
-        }]
-      },
-      options: {
-        responsive: true,
-        scales: { y: { beginAtZero: true } },
-        plugins: { legend: { labels: { color: document.body.classList.contains('dark-mode') ? '#e0e0e0' : '#333' } } }
-      }
-    });
+
   }
 
   // Export to CSV
