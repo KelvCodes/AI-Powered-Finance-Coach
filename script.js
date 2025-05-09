@@ -1,6 +1,4 @@
-onst currencyInput = document.getElementById('currency');
-  const darkModeToggle = document.getElementById('dark-mode-toggle');
-  const exportCsvBtn = document.getElementById('export-csv');
+st exportCsvBtn = document.getElementById('export-csv');
   const ctx = document.getElementById('spendingChart').getContext('2d');
 
   let expenses = JSON.parse(localStorage.getItem('expenses')) || [];
