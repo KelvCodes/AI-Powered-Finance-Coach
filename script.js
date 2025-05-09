@@ -1,7 +1,4 @@
-
-    if (spendingChart) spendingChart.destroy();
-    spendingChart = new Chart(ctx, {
-      type: 'bar',
+e: 'bar',
       data: {
         labels: categories,
         datasets: [{
