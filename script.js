@@ -1,10 +1,6 @@
 Storage.setItem('currency', currency);
     renderExpenses();
-  });
-
-  // Render Expenses
-  async function renderExpenses() {
-    expenseList.innerHTML = '';
+  List.innerHTML = '';
     let totalByCategory = {};
     for (const expense of expenses) {
       const convertedAmount = await convertCurrency(expense.amount, 'USD');
