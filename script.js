@@ -1,5 +1,4 @@
- (nameForm) {
-    nameForm.addEventListener('submit', (e) => {
+  nameForm.addEventListener('submit', (e) => {
       e.preventDefault();
       const userName = document.getElementById('user-name').value.trim();
       if (userName) {
