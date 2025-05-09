@@ -1,6 +1,4 @@
- e.preventDefault();
-      const userName = document.getElementById('user-name').value.trim();
-      if (userName) {
+ if (userName) {
         localStorage.setItem('userName', userName);
         window.location.href = 'app.html';
       }
