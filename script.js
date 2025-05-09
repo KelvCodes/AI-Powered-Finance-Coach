@@ -1,6 +1,4 @@
-s
-   lStorage.setItem('expenses', JSON.stringify(expenses));
-    await renderExpenses();
+ renderExpenses();
     expenseForm.reset();
   });
 
