@@ -1,7 +1,4 @@
-odeToggle.addEventListener('click', () => {
-    document.body.classList.toggle('dark-mode');
-    localStorage.setItem('darkMode', document.body.classList.contains('dark-mode'));
-    darkModeToggle.textContent = document.body.classList.contains('dark-mode') ? '☀️' : '🌙';
+kModeToggle.textContent = document.body.classList.contains('dark-mode') ? '☀️' : '🌙';
   });
 
   // Currency Conversion (Real-time API)
