@@ -1,12 +1,5 @@
 on checkBudgetAlerts(totalByCategory) {
-    budgetAlert.classList.add('hidden');
-    for (const [category, total] of Object.entries(totalByCategory)) {
-      if (budgets[category] && total > budgets[category]) {
-        budgetAlert.textContent = `Warning: You've exceeded your ${category} budget (${currency} ${budgets[category]})!`;
-        budgetAlert.classList.remove('hidden');
-        budgetAlert.classList.add('warning');
-        break;
-      }
+    
     }
   }
 
