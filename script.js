@@ -1,6 +1,3 @@
-onst data = await response.json();
-    return amount * (data.rates[currency] || 1);
-  }
 
   currencyInput.addEventListener('change', () => {
     currency = currencyInput.value.trim().toUpperCase();
