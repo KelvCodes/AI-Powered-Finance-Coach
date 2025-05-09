@@ -1,9 +1,5 @@
-enseForm.addEventListener('submit', async (e) => {
-   t amount = parseFloat(document.getElementById('expense-amount').value);
-    const category = document.getElementById('expense-category').value;
-
-    expenses.push({ name, amount, category });
-    localStorage.setItem('expenses', JSON.stringify(expenses));
+s
+   lStorage.setItem('expenses', JSON.stringify(expenses));
     await renderExpenses();
     expenseForm.reset();
   });
