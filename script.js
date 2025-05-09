@@ -1,6 +1,4 @@
-c function convertCurrency(amount, fromCurrency) {
-    if (fromCurrency === currency) return amount;
-    const response = await fetch(`https://api.exchangerate-api.com/v4/latest/${fromCurrency}`);
+ const response = await fetch(`https://api.exchangerate-api.com/v4/latest/${fromCurrency}`);
     const data = await response.json();
     return amount * (data.rates[currency] || 1);
   }
