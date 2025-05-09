@@ -1,6 +1,4 @@
-
-  const expenseForm = document.getElementById('expense-form');
-  const budgetForm = document.getElementById('budget-form');
+st budgetForm = document.getElementById('budget-form');
   const expenseList = document.getElementById('expenses');
   const budgetAlert = document.getElementById('budget-alert');
   const currencyInput = document.getElementById('currency');
