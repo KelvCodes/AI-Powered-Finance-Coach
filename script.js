@@ -1,7 +1,5 @@
 enseForm.addEventListener('submit', async (e) => {
-    e.preventDefault();
-    const name = document.getElementById('expense-name').value;
-    const amount = parseFloat(document.getElementById('expense-amount').value);
+   t amount = parseFloat(document.getElementById('expense-amount').value);
     const category = document.getElementById('expense-category').value;
 
     expenses.push({ name, amount, category });
