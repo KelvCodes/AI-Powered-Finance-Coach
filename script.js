@@ -1,6 +1,4 @@
-document.addEventListener('DOMContentLoaded', () => {
-  // Homepage Logic
-  const nameForm = document.getElementById('name-form');
+onst nameForm = document.getElementById('name-form');
   if (nameForm) {
     nameForm.addEventListener('submit', (e) => {
       e.preventDefault();
