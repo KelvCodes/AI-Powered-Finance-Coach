@@ -1,7 +1,4 @@
 
-    });
-    return;
-  }
 
   // App Logic
   const userName = localStorage.getItem('userName') || 'Guest';
