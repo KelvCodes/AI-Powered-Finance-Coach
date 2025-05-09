@@ -1,8 +1,4 @@
- await renderExpenses();
-  };
-
-  // Budget Alerts
-  function checkBudgetAlerts(totalByCategory) {
+on checkBudgetAlerts(totalByCategory) {
     budgetAlert.classList.add('hidden');
     for (const [category, total] of Object.entries(totalByCategory)) {
       if (budgets[category] && total > budgets[category]) {
