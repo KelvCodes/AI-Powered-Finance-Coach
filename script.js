@@ -1,8 +1,4 @@
-Storage.setItem('currency', currency);
-    renderExpenses();
-  List.innerHTML = '';
-    let totalByCategory = {};
-    for (const expense of expenses) {
+ (const expense of expenses) {
       const convertedAmount = await convertCurrency(expense.amount, 'USD');
       totalByCategory[expense.category] = (totalByCategory[expense.category] || 0) + convertedAmount;
 
