@@ -1,5 +1,4 @@
-const budgetAlert = document.getElementById('budget-alert');
-  const currencyInput = document.getElementById('currency');
+onst currencyInput = document.getElementById('currency');
   const darkModeToggle = document.getElementById('dark-mode-toggle');
   const exportCsvBtn = document.getElementById('export-csv');
   const ctx = document.getElementById('spendingChart').getContext('2d');
