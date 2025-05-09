@@ -1,8 +1,4 @@
-teChart();
-  }
-
-  // Add Expense
-  expenseForm.addEventListener('submit', async (e) => {
+enseForm.addEventListener('submit', async (e) => {
     e.preventDefault();
     const name = document.getElementById('expense-name').value;
     const amount = parseFloat(document.getElementById('expense-amount').value);
