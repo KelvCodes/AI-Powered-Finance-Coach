@@ -1,6 +1,4 @@
- (const expense of expenses) {
-      const convertedAmount = await convertCurrency(expense.amount, 'USD');
-      totalByCategory[expense.category] = (totalByCategory[expense.category] || 0) + convertedAmount;
+ lByCategory[expense.category] = (totalByCategory[expense.category] || 0) + convertedAmount;
 
       const li = document.createElement('li');
       li.innerHTML = `
