@@ -1,6 +1,4 @@
-t expenses = JSON.parse(localStorage.getItem('expenses')) || [];
-  let budgets = JSON.parse(localStorage.getItem('budgets')) || { food: 0, transport: 0, entertainment: 0, utilities: 0, other: 0 };
-  let currency = localStorage.getItem('currency') || 'USD';
+et currency = localStorage.getItem('currency') || 'USD';
   let spendingChart;
 
   currencyInput.value = currency;
