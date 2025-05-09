@@ -1,6 +1,4 @@
- localStorage.setItem('userName', userName);
-        window.location.href = 'app.html';
-      }
+
     });
     return;
   }
