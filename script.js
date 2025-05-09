@@ -1,7 +1,4 @@
-category = document.getElementById('budget-category').value;
-    const amount = parseFloat(document.getElementById('budget-amount').value);
-
-    budgets[category] = amount;
+ts[category] = amount;
     localStorage.setItem('budgets', JSON.stringify(budgets));
     budgetForm.reset();
     renderExpenses();
