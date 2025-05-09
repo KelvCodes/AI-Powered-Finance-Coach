@@ -1,5 +1,4 @@
- if (userName) {
-        localStorage.setItem('userName', userName);
+ localStorage.setItem('userName', userName);
         window.location.href = 'app.html';
       }
     });
