@@ -1,6 +1,4 @@
-st budgetForm = document.getElementById('budget-form');
-  const expenseList = document.getElementById('expenses');
-  const budgetAlert = document.getElementById('budget-alert');
+const budgetAlert = document.getElementById('budget-alert');
   const currencyInput = document.getElementById('currency');
   const darkModeToggle = document.getElementById('dark-mode-toggle');
   const exportCsvBtn = document.getElementById('export-csv');
