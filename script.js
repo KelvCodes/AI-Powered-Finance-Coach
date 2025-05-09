@@ -1,7 +1,4 @@
- lByCategory[expense.category] = (totalByCategory[expense.category] || 0) + convertedAmount;
-
-      const li = document.createElement('li');
-      li.innerHTML = `
+i.innerHTML = `
         ${expense.name} - ${currency} ${convertedAmount.toFixed(2)} (${expense.category})
         <span onclick="deleteExpense(${expenses.indexOf(expense)})">❌</span>
       `;
