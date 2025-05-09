@@ -1,7 +1,4 @@
-i.innerHTML = `
-        ${expense.name} - ${currency} ${convertedAmount.toFixed(2)} (${expense.category})
-        <span onclick="deleteExpense(${expenses.indexOf(expense)})">❌</span>
-      `;
+
       expenseList.appendChild(li);
     }
     checkBudgetAlerts(totalByCategory);
