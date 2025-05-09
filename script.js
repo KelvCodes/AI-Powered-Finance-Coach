@@ -1,8 +1,4 @@
-kModeToggle.textContent = document.body.classList.contains('dark-mode') ? '☀️' : '🌙';
-  });
-
-  // Currency Conversion (Real-time API)
-  async function convertCurrency(amount, fromCurrency) {
+c function convertCurrency(amount, fromCurrency) {
     if (fromCurrency === currency) return amount;
     const response = await fetch(`https://api.exchangerate-api.com/v4/latest/${fromCurrency}`);
     const data = await response.json();
