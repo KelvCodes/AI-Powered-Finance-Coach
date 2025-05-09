@@ -1,7 +1,3 @@
-pdate Chart
-  function updateChart() {
-    const categories = ['food', 'transport', 'entertainment', 'utilities', 'other'];
-    const data = categories.map(cat => expenses.reduce((sum, exp) => exp.category === cat ? sum + exp.amount : sum, 0));
 
     if (spendingChart) spendingChart.destroy();
     spendingChart = new Chart(ctx, {
