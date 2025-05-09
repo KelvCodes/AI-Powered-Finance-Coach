@@ -1,5 +1,3 @@
-st userName = localStorage.getItem('userName') || 'Guest';
-  document.getElementById('user-greeting').textContent = userName;
 
   const expenseForm = document.getElementById('expense-form');
   const budgetForm = document.getElementById('budget-form');
