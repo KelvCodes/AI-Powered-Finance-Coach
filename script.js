@@ -1,10 +1,4 @@
-
-
-  // Delete Expense
-  window.deleteExpense = async (index) => {
-    expenses.splice(index, 1);
-    localStorage.setItem('expenses', JSON.stringify(expenses));
-    await renderExpenses();
+ await renderExpenses();
   };
 
   // Budget Alerts
