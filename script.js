@@ -1,7 +1,4 @@
-et currency = localStorage.getItem('currency') || 'USD';
-  let spendingChart;
-
-  currencyInput.value = currency;
+rrencyInput.value = currency;
 
   // Dark Mode
   if (localStorage.getItem('darkMode') === 'true') document.body.classList.add('dark-mode');
