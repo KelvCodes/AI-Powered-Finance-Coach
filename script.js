@@ -1,8 +1,4 @@
-ts[category] = amount;
-    localStorage.setItem('budgets', JSON.stringify(budgets));
-    budgetForm.reset();
-    renderExpenses();
-  });
+
 
   // Delete Expense
   window.deleteExpense = async (index) => {
