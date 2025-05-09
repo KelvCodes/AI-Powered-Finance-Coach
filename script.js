@@ -1,6 +1,3 @@
- renderExpenses();
-    expenseForm.reset();
-  });
 
   // Set Budget
   budgetForm.addEventListener('submit', (e) => {
