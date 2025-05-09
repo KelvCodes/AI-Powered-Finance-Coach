@@ -1,11 +1,4 @@
-e: 'bar',
-      data: {
-        labels: categories,
-        datasets: [{
-          label: 'Spending by Category',
-          data: data,
-          backgroundColor: ['#6a11cb', '#2575fc', '#2ecc71', '#e67e22', '#e74c3c'],
-          borderRadius: 5,
+rderRadius: 5,
         }]
       },
       options: {
