@@ -1,5 +1,4 @@
- const response = await fetch(`https://api.exchangerate-api.com/v4/latest/${fromCurrency}`);
-    const data = await response.json();
+onst data = await response.json();
     return amount * (data.rates[currency] || 1);
   }
 
