@@ -1,5 +1,4 @@
-onst nameForm = document.getElementById('name-form');
-  if (nameForm) {
+ (nameForm) {
     nameForm.addEventListener('submit', (e) => {
       e.preventDefault();
       const userName = document.getElementById('user-name').value.trim();
