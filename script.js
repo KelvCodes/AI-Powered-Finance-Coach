@@ -1,8 +1,4 @@
-
-      expenseList.appendChild(li);
-    }
-    checkBudgetAlerts(totalByCategory);
-    updateChart();
+teChart();
   }
 
   // Add Expense
